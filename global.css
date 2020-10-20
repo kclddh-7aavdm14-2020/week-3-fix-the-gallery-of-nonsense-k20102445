@@ -6,7 +6,7 @@ Feel free to play with it!*/
     /* Can you fix the url to find the ttf font file? */
     /* The following line should be something like: */
     /* src: url('location/of/font.ttf'); */
-    src: url('');
+    src: url('src/fonts/lockergnome.ttf');
 }
 
 * {
